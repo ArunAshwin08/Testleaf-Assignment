@@ -1,4 +1,4 @@
-mport java.lang.reflect.Array;
+import java.lang.reflect.Array;
 public class intersection {
 
 	public static void main(String[] args) {
