@@ -1,5 +1,3 @@
-package week1day2;
-
 public class duplicate {
 
 	public static void main(String[] args) {
